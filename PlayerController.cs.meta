@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 599e70650f9db9b40953f81ebb03b561
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rigidbody: {instanceID: 0}
+  - _groundCheck: {instanceID: 0}
+  - _camera: {instanceID: 0}
+  - _wandGameObject: {instanceID: 0}
+  - _bulletPrefab: {instanceID: 0}
+  - _bulletsParent: {instanceID: 0}
+  - _wandEnd: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
